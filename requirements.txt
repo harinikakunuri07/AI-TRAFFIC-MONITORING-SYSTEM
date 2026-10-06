@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+langchain
+langchain-community
+langchain-ollama
+huggingface-hub
+opencv-python
+ultralytics
